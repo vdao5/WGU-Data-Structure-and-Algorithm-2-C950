@@ -1,0 +1,5 @@
+id,truck_id,plot_color,start_time,start_after,start_address_id,end_address_id,round_trip,packages_ids
+Route 2A,Truck 2,r,800,,,,,15;16;34;14;20;19;12;36;27;35;13;39;3;30;37;38
+Route 2B,Truck 2,g,,Route 2A,,,False,21;31;32;17;6;18;23;11
+Route 1A,Truck 1,b,906,,,,,22;25;26;24;4;40;1;28;2;33;7;29
+Route 1B,Truck 1,m,,Route 1A,,,False,5;8;9;10

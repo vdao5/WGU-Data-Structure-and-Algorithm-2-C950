@@ -1,0 +1,41 @@
+id,address_id,earliest,latest,weight,notes
+1,5,SOD,1030,21,
+2,9,SOD,EOD,44,
+3,8,SOD,EOD,2,Can only be on truck 2
+4,18,SOD,EOD,4,
+5,19,SOD,EOD,5,
+6,13,905,1030,88,Delayed on flight---will not arrive to depot until 9:05 am
+7,2,SOD,EOD,8,
+8,12,SOD,EOD,9,
+9,19,1020,EOD,2,Wrong address listed---fixed at 10:20
+10,25,SOD,EOD,1,
+11,10,SOD,EOD,1,
+12,16,SOD,EOD,1,
+13,6,SOD,1030,2,"Must be delivered with 13, 14, 15, 16, 19, 19"
+14,20,SOD,1030,88,"Must be delivered with 13, 14, 15, 16, 19, 20"
+15,21,SOD,900,4,"Must be delivered with 13, 14, 15, 16, 19, 21"
+16,21,SOD,1030,88,"Must be delivered with 13, 14, 15, 16, 19, 22"
+17,14,SOD,EOD,2,
+18,3,SOD,EOD,6,Can only be on truck 2
+19,4,SOD,EOD,37,"Must be delivered with 13, 14, 15, 16, 19, 22"
+20,17,SOD,1030,37,"Must be delivered with 13, 14, 15, 16, 19, 22"
+21,17,SOD,EOD,3,
+22,26,SOD,EOD,2,
+23,23,SOD,EOD,5,
+24,22,SOD,EOD,7,
+25,24,905,1030,7,Delayed on flight---will not arrive to depot until 9:05 am
+26,24,SOD,EOD,25,
+27,1,SOD,EOD,5,
+28,11,905,EOD,7,Delayed on flight---will not arrive to depot until 9:05 am
+29,2,SOD,1030,2,
+30,12,SOD,1030,1,
+31,15,SOD,1030,1,
+32,15,905,EOD,1,Delayed on flight---will not arrive to depot until 9:05 am
+33,9,SOD,EOD,1,
+34,21,SOD,1030,2,
+35,1,SOD,EOD,88,
+36,7,SOD,EOD,88,Can only be on truck 2
+37,19,SOD,1030,2,
+38,19,SOD,EOD,9,Can only be on truck 2
+39,6,SOD,EOD,9,
+40,18,SOD,1030,45,
